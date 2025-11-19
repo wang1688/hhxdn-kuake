@@ -10,3 +10,4 @@
 ### Collection Methods
 ## Collection Method 1: Obtain directly from the official website of Haohaoxue Computer. Address: https://www.hhxdn.com/
 ## Collection Method 2: Free online document. Address: https://www.kdocs.cn/l/cn4Qo0uTjnUQ
+## Collection Method 3: Follow this project for daily updates (the newly added content of the day is in "Today's New Additions")
